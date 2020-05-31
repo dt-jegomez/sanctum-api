@@ -128,17 +128,17 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Post: http://localhost:8000/api/login
 
-{
-    "user": {
-        "id": 1,
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "email_verified_at": null,
-        "created_at": null,
-        "updated_at": null
-    },
-    "token": "1|qFpxt1XND5Ac0HoTlndfkVxz9vc3MGf1GFuHsCteCvFNP8KU5UnQm9GK94tuN2gVdHwG3SiYhQOwYIMf"
-}
+    {
+        "user": {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@doe.com",
+            "email_verified_at": null,
+            "created_at": null,
+            "updated_at": null
+        },
+        "token": "1|qFpxt1XND5Ac0HoTlndfkVxz9vc3MGf1GFuHsCteCvFNP8KU5UnQm9GK94tuN2gVdHwG3SiYhQOwYIMf"
+    }
     
     
 ## Learning Laravel
